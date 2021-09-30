@@ -26,15 +26,21 @@ User specified parameter:
 'threshold_all':      global threshold, typically set as 0.1, the best range is [0.05, 0.2]
 
 ## Citation
-If you find this code or its associated data (e.g. images) is useful, please cite the paper, Thanks:
+If you find this code or its associated data (e.g. images) is useful, please cite the paper, Thanks.
+
 X. Fang, Q. Zhou, J. Shen, C. Jacquemin, L. Shao. [Text Image Deblurring Using Kernel Sparsity Prior](https://fangxianyong.github.io/home/papers/tcy20textdeblurring.pdf). 
 IEEE Transactions on Cybernetics, vol. 50, no.3, pp.997-1008, 2020.
 
 ## Contacts
 Should you have any question regarding this software and its corresponding results, please contact:
+
 Xianyong Fang (fangxianyong@ahu.edu.cn)
+
 Qiang Zhou (zhqiang@ahu.edu.cn)
+
 Jianbing Shen (shenjianbing@bit.edu.cn)
+
 Christian Jacquemin （christian.jacquemin@limsi.fr)
+
 Ling Shao (ling.shao@uea.ac.uk)
 
