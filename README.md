@@ -1,6 +1,6 @@
 # Text Image Deblurring Using Kernel Sparsity Prior
 
-This repository demos the algorithm in the paper titled [Text Image Deblurring Using Kernel Sparsity Prior](https://fangxianyong.github.io/home/papers/tcy20textdeblurring.pdf), by Xianyong Fang, et al. at IEEE Trans. Cybernetics, 2020.
+This repository demos the algorithm in the paper [Text Image Deblurring Using Kernel Sparsity Prior](https://fangxianyong.github.io/home/papers/tcy20textdeblurring.pdf) by Xianyong Fang, et al. at IEEE Trans. Cybernetics, 2020.
 
 The code is tested in MATLAB 2016a(64bit) under the MS Windows 10 64bit version. For algorithmic details, please refer to our paper. Please also start from 'demo.m' for more details.
 
